@@ -1,0 +1,10 @@
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\bin\Debug\Chef.exe.config
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\bin\Debug\Chef.exe
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\bin\Debug\Chef.pdb
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\obj\Debug\Chef.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\obj\Debug\Chef.Form1.resources
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\obj\Debug\Chef.Properties.Resources.resources
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\obj\Debug\Chef.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\obj\Debug\Chef.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\obj\Debug\Chef.exe
+C:\Users\Hp\Documents\sever client tutorial\sever\Chef\Chef\obj\Debug\Chef.pdb
